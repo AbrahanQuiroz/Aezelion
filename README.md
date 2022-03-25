@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Aezelion
 - 👀 I’m interested in Programacion
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Henry
 - 📫 How to reach me abrahanqz@gmail.com
 
 <!---
