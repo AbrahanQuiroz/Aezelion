@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aezelion
+- 👋 Hi, I’m AbrahanQuiroz
 - 👀 I’m interested in Programacion
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me abrahanqz@gmail.com
